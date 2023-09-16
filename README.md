@@ -4,7 +4,7 @@ A simple calculator application built using HTML, CSS, and JavaScript.
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear button to reset the calculator.
-- Keyboard support for entering numbers and performing calculations.
+
 
 ## Usage
 
@@ -15,6 +15,6 @@ A simple calculator application built using HTML, CSS, and JavaScript.
 
 For any questions or feedback, please feel free to reach out to me at vamshikrishnapeddi34129@gmail.com
 
-You can also visit our website at :
+You can also visit our website at : https://vamshikrishna-peddi.github.io/technohacks_calc/
 
 
